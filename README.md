@@ -1,3 +1,3 @@
 # bigneb.github.io
 Mon Portfolio
-https://bigneb.github.io/index.html
+https://bigneb.github.io/
